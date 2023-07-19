@@ -1,7 +1,5 @@
-[![Build Status](https://travis-ci.org/crossoverJie/JCSprout.svg?branch=master)](https://travis-ci.org/crossoverJie/jeeplatform) [![Join the chat at https://gitter.im/jeeplatform/community](https://badges.gitter.im/jeeplatform/community.svg)](https://gitter.im/jeeplatform/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## 一、项目简介 
-JeePlatform项目是一款以SpringBoot为核心框架，集ORM框架Mybatis，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，代码已经捐赠给开源中国社区：https://www.oschina.net/p/jeeplatform
+为了更加完善海关部门内部应用系统，计划采用JeePlatform项目为基地进行建设，JeePlatform项目是一款以SpringBoot为核心框架，集ORM框架Mybatis，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，代码已经捐赠给开源中国社区：https://www.oschina.net/p/jeeplatform
 
 代码结构图：
 ```
@@ -90,7 +88,7 @@ ps:登录链接一般为：http://127.0.0.1:8080/jeeplatform/login
 ### 系统管理通用功能 
 - [ ] 单点登录: OAuth2.0+JWT单点登录/CAS单点登录
 - [x] 用户管理: 系统用户	
-- [x] 角色管理: 按照企业系统职能进行角色分配，每个角色具有不同的系统操作权限	
+- [x] 角色管理: 按照海关系统职能进行角色分配，每个角色具有不同的系统操作权限	
 - [x] 权限管理: 权限管理细分到系统菜单权限
 - [ ] 在线管理：管理在线用户，可以强制下线
 - [x] 菜单管理：系统可以配置系统菜单，并分配不同的权限	
@@ -155,7 +153,7 @@ dev版本代码和master分支基本一致
 * [基于RBAC模型的权限系统设计](http://blog.csdn.net/u014427391/article/details/78889378)
 * [Spring Data Jpa实现分页](http://blog.csdn.net/u014427391/article/details/77434664)
 * [SpringMVC+ZTree实现树形菜单权限配置](https://blog.csdn.net/u014427391/article/details/78889378)
-* [企业信息化基础平台项目介绍](https://blog.csdn.net/u014427391/article/details/78867439)
+* [海关信息化基础平台项目介绍](https://blog.csdn.net/u014427391/article/details/78867439)
 * [基于Shiro的登录验证功能实现](http://blog.csdn.net/u014427391/article/details/78307766)
 
 ### SpringBoot
@@ -178,7 +176,6 @@ dev版本代码和master分支基本一致
 
 ### Docker笔记
 * [Docker简介和安装教程](https://smilenicky.blog.csdn.net/article/details/97613891)
-
 
 
 
