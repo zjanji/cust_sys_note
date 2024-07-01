@@ -1,5 +1,5 @@
 ## 一、项目简介 
-为了更加完善海关部门内部应用系统，计划采用JeePlatform项目为基地进行建设，JeePlatform项目是一款以SpringBoot为核心框架，集ORM框架Mybatis，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，代码已经捐赠给开源中国社区：https://www.oschina.net/p/jeeplatform
+为了更加完善中航信部门内部应用系统，计划采用JeePlatform项目为基地进行建设，JeePlatform项目是一款以SpringBoot为核心框架，集ORM框架Mybatis，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，代码已经捐赠给开源中国社区：https://www.oschina.net/p/jeeplatform
 
 代码结构图：
 ```
