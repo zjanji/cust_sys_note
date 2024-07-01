@@ -145,37 +145,3 @@ dev版本代码和master分支基本一致
 
 * 1.1.0版本
 进行单点登录对接实验的版本，拟采用两种方案，CAS实现的单点登录和OAuth2.0+JWT单点登录，admin工程暂时还没对接，oa工程对接CAS，cms工程对接OAuth2.0
-
-## 八、项目技术博客介绍 
-为了帮助学习者更好地理解代码，下面给出自己写的一些博客链接
-
-### Java框架
-* [基于RBAC模型的权限系统设计](http://blog.csdn.net/u014427391/article/details/78889378)
-* [Spring Data Jpa实现分页](http://blog.csdn.net/u014427391/article/details/77434664)
-* [SpringMVC+ZTree实现树形菜单权限配置](https://blog.csdn.net/u014427391/article/details/78889378)
-* [海关信息化基础平台项目介绍](https://blog.csdn.net/u014427391/article/details/78867439)
-* [基于Shiro的登录验证功能实现](http://blog.csdn.net/u014427391/article/details/78307766)
-
-### SpringBoot
-我的Springboot系列博客可以参考我的专栏：[SpringBoot系列博客](https://blog.csdn.net/u014427391/category_9195353.html)
-* [SpringBoot热部署配置](https://smilenicky.blog.csdn.net/article/details/89765909)
-* [SpringBoot集成Redis实现缓存处理](http://blog.csdn.net/u014427391/article/details/78799623)
-* [SpringBoot profles配置多环境](https://smilenicky.blog.csdn.net/article/details/89792248)
-* [SpringBoot集成Swagger2](https://smilenicky.blog.csdn.net/article/details/90706219)
-
-### RPC框架
-* [Dubbo服务注册与发现](https://smilenicky.blog.csdn.net/article/details/96754952)
-
-### 单点登录
-* [ 单点登录集群安装教程](http://blog.csdn.net/u014427391/article/details/78653482)
-* [CAS单点登录系列之原理简单介绍](https://blog.csdn.net/u014427391/article/details/82083995)
-* [CAS系列之使用cas overlay搭建服务端（一）](https://blog.csdn.net/u014427391/article/details/105818468)
-* [CAS 5.3.1系列之支持JDBC认证登录（二）](https://blog.csdn.net/u014427391/article/details/105603895)
-* [CAS 5.3.1系列之自定义JDBC认证策略（三）](https://blog.csdn.net/u014427391/article/details/105820486)
-* [CAS 5.3.1系列之自定义Shiro认证策略（四）](https://blog.csdn.net/u014427391/article/details/105820586)
-
-### Docker笔记
-* [Docker简介和安装教程](https://smilenicky.blog.csdn.net/article/details/97613891)
-
-
-
